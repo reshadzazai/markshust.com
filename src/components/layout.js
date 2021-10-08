@@ -35,17 +35,6 @@ class Layout extends React.Component {
               : "items-center grid lg:flex ml-6 justify-left"
           }
         >
-          <Link className="px-2 py-1 mx-2" to="/blog">
-            Blog
-          </Link>
-          <a
-            className="px-2 py-1 mx-2"
-            href="https://m.academy"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Courses
-          </a>
           <a
             className="px-2 py-1 mx-2"
             href="https://github.com/reshadzazai"
