@@ -48,7 +48,7 @@ class Layout extends React.Component {
           </a>
           <a
             className="px-2 py-1 mx-2"
-            href="https://github.com/markshust"
+            href="https://github.com/reshadzazai"
             target="_blank"
             rel="noreferrer"
           >
