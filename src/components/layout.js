@@ -56,7 +56,7 @@ class Layout extends React.Component {
           </a>
           <a
             className="px-2 py-1 mx-2"
-            href="https://www.youtube.com/channel/UC3MdXXeF48RN-mqMkJlGn0Q"
+            href="https://www.youtube.com/channel/UCNhSWCafsYpin050VJPIPmw"
             target="_blank"
             rel="noreferrer"
           >
