@@ -33,7 +33,7 @@ class Newsletter extends Component {
   render() {
     return (
       <form
-        action="https://app.convertkit.com/forms/1080992/subscriptions"
+        action="https://app.convertkit.com/forms/2668569/subscriptions"
         className="seva-form formkit-form"
         method="post"
         data-sv-form="1080992"
