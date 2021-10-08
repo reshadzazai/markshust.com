@@ -3,7 +3,7 @@ import { graphql, Link } from "gatsby"
 import Layout from "@components/layout"
 import SEO from "@components/seo"
 import Newsletter from "@components/newsletter"
-import markshustAvatar from "@assets/markshust-avatar.jpg"
+import reshadzazaiAvatar from "@assets/reshadzazai-avatar.jpg"
 
 class IndexIndex extends React.Component {
   render() {
@@ -17,7 +17,7 @@ class IndexIndex extends React.Component {
         <div className="relative py-8 bg-white overflow-hidden">
           <img
             className="rounded-full h-48 h-48 lg:h-64 lg:w-64 mx-auto"
-            src={markshustAvatar}
+            src={reshadzazaiAvatar}
             alt="Reshad Zazai"
           />
           <h1 className="mb-8 text-3xl text-center font-extrabold tracking-tight text-gray-900 sm:text-5xl pb-4">
