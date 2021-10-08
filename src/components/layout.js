@@ -65,7 +65,7 @@ class Layout extends React.Component {
           <Link className="px-2 py-1 mx-2" to="/about">
             About
           </Link>
-          <a className="px-2 py-1 mx-2" href="mailto:mark@shust.com">
+          <a className="px-2 py-1 mx-2" href="mailto:armirazai@gmail.com">
             Contact
           </a>
         </nav>
