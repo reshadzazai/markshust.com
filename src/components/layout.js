@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, StaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
-import markshustAvatar from "@assets/markshust-avatar.jpg"
+import reshadzazaiAvatar from "@assets/reshadzazai-avatar.jpg"
 
 class Layout extends React.Component {
   constructor(props) {
@@ -20,11 +20,11 @@ class Layout extends React.Component {
           <Link to="/" className="flex justify-center items-center">
             <img
               className="rounded-full h-24 w-24 lg:h-16 lg:w-16 mb-0 ml-8 lg:ml-0"
-              src={markshustAvatar}
-              alt="Mark Shust"
+              src={reshadzazaiAvatar}
+              alt="Reshad Zazai"
             />
             <div className="p-4 text-2xl lg:text-lg flex justify-center items-center tracking-tight font-extrabold text-gray-900">
-              Mark Shust
+              Reshad Zazai
             </div>
           </Link>
         )}
@@ -67,14 +67,14 @@ class Layout extends React.Component {
         <main>{children}</main>
         <footer className="grid grid-cols-1 lg:grid-cols-2 py-8 text-center lg:text-left">
           <div className="pb-4 lg:pb-0">
-            Mark Shust &copy; 1985-{new Date().getFullYear()}{" "}
+            Reshad Zazai &copy; 1985-{new Date().getFullYear()}{" "}
           </div>
           <StaticQuery
             query={layoutQuery}
             render={data => (
               <div className="grid grid-cols-3">
                 <a
-                  href="https://twitter.com/MarkShust"
+                  href="https://twitter.com/Reshad_zazai"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 mx-4 text-center"
@@ -85,7 +85,7 @@ class Layout extends React.Component {
                   />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/MarkShust/"
+                  href="https://www.linkedin.com/in/reshadzazai/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 mx-4 text-center"
