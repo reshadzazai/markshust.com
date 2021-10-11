@@ -16,7 +16,7 @@ const TagsPage = ({
   return (
     <Layout location={location} subtitle={description} title={title}>
       <SEO
-        title="Magento 2 PHP JavaScript Laravel React Docker Tags - Mark Shust"
+        title="Magento 2 PHP JavaScript Laravel React Docker Tags - Reshad Zazai"
         overrideTitle
         description={description}
         keywords={[

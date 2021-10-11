@@ -9,7 +9,7 @@ I noticed a funny image online of a bright neon sign hanging in an office somepl
 That lead to me tweeting this out:
 
 <div style="margin: 1rem auto 2rem; max-width: 100%; width: 500px;">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/magento?src=hash&amp;ref_src=twsrc%5Etfw">#magento</a> doing a good job at this 🤣 <a href="https://t.co/s1CoTmTh9D">pic.twitter.com/s1CoTmTh9D</a></p>&mdash; Mark Shust 👨‍🏫☕️🚀 (@markshust) <a href="https://twitter.com/markshust/status/1184561446195204096?ref_src=twsrc%5Etfw">October 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/magento?src=hash&amp;ref_src=twsrc%5Etfw">#magento</a> doing a good job at this 🤣 <a href="https://t.co/s1CoTmTh9D">pic.twitter.com/s1CoTmTh9D</a></p>&mdash; Reshad Zazai 👨‍🏫☕️🚀 (@markshust) <a href="https://twitter.com/markshust/status/1184561446195204096?ref_src=twsrc%5Etfw">October 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 It was all in good fun, as I'm sure we've all had our ups & downs learning, debugging, and working with Magento. But I think the number of engagements this tweet had is very telling.

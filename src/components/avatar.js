@@ -19,7 +19,7 @@ const Avatar = () => {
   return (
     <Image
       fixed={data.avatar.childImageSharp.fixed}
-      alt="Mark Shust"
+      alt="Reshad Zazai"
       style={{
         marginRight: rhythm(1 / 2),
         marginBottom: 0,

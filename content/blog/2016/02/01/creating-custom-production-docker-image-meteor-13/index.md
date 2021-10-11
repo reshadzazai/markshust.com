@@ -40,7 +40,7 @@ Let's now build our Dockerfile. After a lot of trial and error, here's what I wo
 
 ```docker
 FROM node:0.10.41-slim
-MAINTAINER Mark Shust &lt;mark@shust.com&gt;
+MAINTAINER Reshad Zazai &lt;mark@shust.com&gt;
 
 ADD . /opt/app
 WORKDIR /opt/app/programs/server

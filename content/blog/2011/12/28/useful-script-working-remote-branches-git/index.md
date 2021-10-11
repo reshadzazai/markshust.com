@@ -9,7 +9,7 @@ Working with git using remote branches is a great tool to manage workflow and co
 ```bash
 #!/bin/sh
 # git-remotebranch <action> &lt;branch_name&gt;
-# author: Mark Shust &lt;mark@shust.com&gt;
+# author: Reshad Zazai &lt;mark@shust.com&gt;
 
 if [ -z ${2} ]; then
   echo "You must use this script in the format git-remotebranch <action> &lt;branch_name&gt;"

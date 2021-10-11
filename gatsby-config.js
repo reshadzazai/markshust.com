@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Mark Shust`,
-    author: `Mark Shust`,
-    description: `Certified Magento Developer, Architect & Teacher in Cleveland, Ohio`,
-    siteUrl: `https://markshust.com/`,
+    title: `Reshad Zazai`,
+    author: `Reshad Zazai`,
+    description: `Magento Developer, Kabul, Afghanistan`,
+    siteUrl: `https://reshadzazaicommaster.gatsbyjs.io/`,
     social: {
-      twitter: `markshust`,
+      twitter: `reshadzazai`,
     },
   },
   plugins: [
@@ -67,8 +67,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Mark Shust`,
-        short_name: `Mark Shust`,
+        name: `Reshad Zazai`,
+        short_name: `Reshad Zazai`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
@@ -133,7 +133,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Mark Shust's RSS Feed",
+            title: "Reshad Zazai's RSS Feed",
           },
         ],
       },
@@ -141,8 +141,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Mark Shust`,
-        short_name: `Mark Shust`,
+        name: `Reshad Zazai`,
+        short_name: `Reshad Zazai`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

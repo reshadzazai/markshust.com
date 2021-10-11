@@ -15,7 +15,7 @@ class AboutPage extends React.Component {
         <img
           className="rounded-full h-48 h-48 lg:h-64 lg:w-64 mx-auto"
           src={reshadzazaiAvatar}
-          alt="Mark Shust"
+          alt="Reshad Zazai"
         />
         <h1 className="mb-8 text-3xl text-center font-extrabold tracking-tight text-gray-900 sm:text-5xl pb-4">
           About Me

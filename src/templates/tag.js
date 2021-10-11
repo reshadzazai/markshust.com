@@ -12,7 +12,7 @@ const TagsTemplate = ({ pageContext, data, location }) => {
   const tagHeader = `${totalCount} post${
     totalCount === 1 ? "" : "s"
   } tagged with "${tag}"`
-  const title = `${tag} - Mark Shust`
+  const title = `${tag} - Reshad Zazai`
 
   return (
     <Layout location={location} subtitle={siteSubtitle} title={siteTitle}>

@@ -14,7 +14,7 @@ const Bio = () => (
           height: 80,
         }}
       >
-        <strong>Mark Shust</strong>
+        <strong>Reshad Zazai</strong>
       </div>
     </a>
   </div>
