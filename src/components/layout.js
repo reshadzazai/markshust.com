@@ -67,7 +67,7 @@ class Layout extends React.Component {
         <main>{children}</main>
         <footer className="grid grid-cols-1 lg:grid-cols-2 py-8 text-center lg:text-left">
           <div className="pb-4 lg:pb-0">
-            Reshad Zazai &copy; 1985-{new Date().getFullYear()}{" "}
+            Reshad Zazai &copy; 1992-{new Date().getFullYear()}{" "}
           </div>
           <StaticQuery
             query={layoutQuery}
@@ -95,14 +95,14 @@ class Layout extends React.Component {
                     alt="LinkedIn"
                   />
                 </a>
-                <Link
+                {/* <Link
                   to="/rss.xml"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-4 mx-4 text-center"
                 >
                   <Image fixed={data.rssIcon.childImageSharp.fixed} alt="RSS" />
-                </Link>
+                </Link> */}
               </div>
             )}
           />
