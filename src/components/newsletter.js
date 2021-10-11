@@ -48,7 +48,7 @@ class Newsletter extends Component {
           <div className="max-w-screen-xl mx-auto px-4 py-12 sm:px-6 lg:py-16 lg:px-8">
             <div className="px-6 py-6 bg-blue-600 rounded-lg md:py-12 md:px-12 lg:py-16 lg:px-16 xl:items-center">
               <h2 className="text-2xl leading-8 font-extrabold tracking-tight text-white sm:text-3xl sm:leading-9 font-sans">
-                Do you need a Magento Developer?
+                Need a Magento Developer?
               </h2>
               <p
                 className="mt-3 mb-6 max-w-3xl text-lg leading-6 text-indigo-200"
