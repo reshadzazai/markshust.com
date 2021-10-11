@@ -48,15 +48,13 @@ class Newsletter extends Component {
           <div className="max-w-screen-xl mx-auto px-4 py-12 sm:px-6 lg:py-16 lg:px-8">
             <div className="px-6 py-6 bg-blue-600 rounded-lg md:py-12 md:px-12 lg:py-16 lg:px-16 xl:items-center">
               <h2 className="text-2xl leading-8 font-extrabold tracking-tight text-white sm:text-3xl sm:leading-9 font-sans">
-                Are you a Magento geek?
+                Do you need a Magento Developer?
               </h2>
               <p
                 className="mt-3 mb-6 max-w-3xl text-lg leading-6 text-indigo-200"
                 id="newsletter-headline"
               >
-                Signup for my newsletter and I'll let you know about{" "}
-                <span className="inline-block">Magento-related</span> blogs,
-                courses & more.
+                Submit your email address, and I will contact you as soon!
               </p>
               <div className="mt-8 sm:w-full sm:max-w-lg xl:mt-0">
                 <ul
@@ -91,7 +89,7 @@ class Newsletter extends Component {
                       <div />
                       <div />
                     </div>
-                    <span>Get Magento Info</span>
+                    <span>Submit</span>
                   </button>
                 </div>
               </div>
